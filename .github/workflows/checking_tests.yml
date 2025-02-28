@@ -1,5 +1,5 @@
 # Name of workflow
-name: Lint workflow
+name: Checking Tests
 
 # Trigger workflow on all pull requests
 on:
@@ -12,6 +12,7 @@ on:
 jobs:
   test:
     # Operating system to run job on
+    name: Checking Tests
     runs-on: ubuntu-latest
 
     # Steps in job
@@ -29,10 +30,6 @@ jobs:
       - name: 🧰 Install Deps
         run: npm install
         
-      # Run lint
-      - name: Run Lint
-        run: npm run lint
-
        # Run build
       - name: Run Build
         run: npm run build
