@@ -57,7 +57,7 @@ For testing purposes, Cypress was used.
 
 [Cypress](https://docs.cypress.io/app/get-started/why-cypress)
 
-This application was created to requiresthe use of Express.js, MongoDB database, and Mongoose ODM. 
+This application was created to requires the use of Express.js, MongoDB database, and Mongoose ODM. 
 
 [MongoDB Docs](https://www.mongodb.com/docs/)
 
