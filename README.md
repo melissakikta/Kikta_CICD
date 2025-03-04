@@ -15,7 +15,7 @@ This application showcases the developer's ability to set up a CI/CD pipeline to
   * [Contact](#🗨️-contact)
 
 ## 📝 Usage
-<strong>CI/CD Useage</strong>
+<strong>CI/CD Useage </strong>
 
 Here are screenshots of the appilcation Continuous Integration and Continuous Deployment 
 
