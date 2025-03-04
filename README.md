@@ -19,19 +19,15 @@ This application showcases the developer's ability to set up a CI/CD pipeline to
 
 Here are screenshots of the appilcation Continuous Integration and Continuous Deployment 
 
-<u><strong>GitHub Actions</strong></u>
+<u><strong>GitHub Branches</strong></u>
 
-![Navigation](./assets/images/github.png)
-
-
-<u><strong>Cypress Component Test</strong></u>
-
-![Navigation](./assets/images/component.png)
+![Navigation](./assets/images/branches.png)
 
 
-<u><strong>Branches</strong></u>
+<u><strong>Live Site</strong></u>
 
-![Navigation](./assets/images/branch.png)
+![Navigation](./assets/images/live.png)
+
 
 Back to [Table-of-Contents](#🚀-table-of-contents)
 
