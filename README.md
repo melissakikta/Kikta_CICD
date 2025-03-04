@@ -5,7 +5,7 @@ Creating a CI/CD pipeline using GitHub Actions that runs a component test via Cy
 ## 📚 Description
 This application showcases the developer's ability to set up a CI/CD pipeline to run Cypress tests on code sent through a Pull Request to a Develop branch before it is merged and deployed to the main branch. This application uses GitHub Actions, Cypress, Render, and MongoDB Atlas for the CI/CD. 
 
-[Deployed Application]() 
+[Deployed Application](https://kikta-cicd.onrender.com) 
 
 ## 🚀 Table of Contents
   * [Usage](#📝-Usage)
@@ -15,7 +15,7 @@ This application showcases the developer's ability to set up a CI/CD pipeline to
   * [Contact](#🗨️-contact)
 
 ## 📝 Usage
-<strong>CI/CD Useage</strong>
+<strong>CI/CD Useage </strong>
 
 Here are screenshots of the appilcation Continuous Integration and Continuous Deployment 
 
